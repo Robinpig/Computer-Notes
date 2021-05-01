@@ -11,7 +11,7 @@
 Computer Notes contains Linux,Java,Go,etc.
 
 
-## [JDK](/docs/JDK/JDK.md)
+## *[JDK](/docs/JDK/JDK.md)
 
 ## [Netty](/docs/Netty/Netty.md)
 
