@@ -1,5 +1,5 @@
 * [Home](/README.md)
-* [JDK](JDK/JDK.md)
+* [JDK](./docs/JDK/JDK.md)
  * [JVM](JDK/JVM.md)
  * [Concurrent](JDK/Concurrent.md)
 * [Netty](Netty/Netty.md)
