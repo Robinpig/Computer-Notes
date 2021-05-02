@@ -15,7 +15,7 @@ Computer Notes contains Linux,Java,Go,etc.
 ### [JVM](/docs/JDK/JVM.md)
 ### [Concurrency](/docs/JDK/Concurrency.md)
 
-## [Netty](/docs/Netty/Netty.md)
+## [Netty](/docs/Netty/Netty/README.md)
 
 ## [Spring](/docs/Spring/Spring.md)
 
